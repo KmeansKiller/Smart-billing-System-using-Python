@@ -21,14 +21,16 @@ This project is a simple yet powerful billing system built using Python and Jupy
 
 ### How to Run
 1. Launch Jupyter Notebook using Anaconda or `jupyter notebook` command
-2. Upload and open `Smart_Billing_App_FIXED.ipynb`
+2. Upload and open `Smart_Billing_App_.ipynb`
 3. Run each cell (Shift + Enter)
 4. Enter customer details and item names from the catalog
 5. Bill is generated and saved as `.txt` and `.csv`
 6. All sales are logged into `sales_log.csv`
 
 ## 📷 Screenshots
-_Add your screenshots here if available (e.g. sample bill output, catalog display)_
+
+<img width="1920" height="1200" alt="Screenshot 2025-07-12 203723" src="https://github.com/user-attachments/assets/bb161add-4f9f-4898-8369-ed88b031d013" />
+<img width="1920" height="1128" alt="Screenshot 2025-07-12 203911" src="https://github.com/user-attachments/assets/bbc265b4-a75e-4d83-ab81-30b3af84497d" />
 
 ## 🙋‍♂️ Created By
 **Aditya Vairalkar**  
